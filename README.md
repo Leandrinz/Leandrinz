@@ -1,5 +1,6 @@
-## Vasco da Gama 💢💢💢
-
+## Oi, meu nome é Leandro Savio!
+Sou estudante de BTI na UFERSA 
+Torcedor do Vasco da Gama 💢
 <!--
 **Leandrinz/Leandrinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
