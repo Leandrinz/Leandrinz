@@ -22,6 +22,11 @@
 [![Instagram](https://img.shields.io/badge/-@leandro_savio06-833AB4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/leandro_savio06)](https://instagram.com/leandro_savio06)
 [![LinkedIn](https://img.shields.io/badge/-Leandro%20Sávio-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-savio-967659350)](https://www.linkedin.com/in/leandro-savio-967659350)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Leandrinz/Leandrinz/main/seu-avatar.jpg" width="250" alt="Leandro versão Studio Ghibli" />
+</p>
+
+
 
 
 
