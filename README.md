@@ -5,10 +5,18 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leandrinz&theme=city_light&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrinz&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Leandrinz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Leandrinz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrinz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Leandrinz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Leandrinz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 💻 Linguagens que estou aprendendo
 
 <div style="display: flex; justify-content: center; gap: 20px;">
