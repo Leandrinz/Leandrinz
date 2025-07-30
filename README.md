@@ -1,7 +1,5 @@
 ## Olá, meu nome é Leandro Savio!
-- 🧑‍🎓 Estudante de BTI na UFERSA  
-- 🌱 Conhecimentos básicos em: Algoritmos e Python
-- 🧐 Estudando C e Python
+- Sou graduando em Tecnologia da Informação na UFERSA, com conhecimentos iniciais em Python e C. Estudo lógica de programação, estruturas de dados e conceitos básicos de testes de unidade. Busco aplicar boas práticas de desenvolvimento para produzir código limpo e confiável, buscando aprimorar minhas habilidades técnicas e ampliar meus conhecimentos na área.
 
 ## 📊 Estatísticas do GitHub
 
