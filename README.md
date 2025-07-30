@@ -1,7 +1,7 @@
 ## Olá, meu nome é Leandro Savio!
 - 🧑‍🎓 Estudante de BTI na UFERSA  
 - 🌱 Conhecimentos básicos em: Algoritmos e Python
-- 🧐 Estudando C
+- 🧐 Estudando C e Python
 
 ## 📊 Estatísticas do GitHub
 
