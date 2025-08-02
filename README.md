@@ -2,17 +2,14 @@
 - Sou graduando em Tecnologia da Informação na UFERSA, com conhecimentos iniciais em Python e C. Estudo lógica de programação, estruturas de dados e conceitos básicos de testes de unidade. Busco aplicar boas práticas de desenvolvimento para produzir código limpo e confiável, buscando aprimorar minhas habilidades técnicas e ampliar meus conhecimentos na área.
 
 ## 📊 Estatísticas do GitHub
-
-![](https://github-readme-stats.vercel.app/api?username=Leandrinz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Leandrinz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrinz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![Leandrinz's Stats](https://github-readme-stats.vercel.app/api?username=Leandrinz&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 ### 🔝 Repositórios com mais contribuições
-![](https://github-contributor-stats.vercel.app/api?username=Leandrinz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Leandrinz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leandrinz&theme=gotham&hide_border=true)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Leandrinz&icon=0&color=0)](https://visitcount.itsvg.in)
+![Leandrinz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrinz&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Criado com GPRM ( https://gprm.itsvg.in ) -->
 
