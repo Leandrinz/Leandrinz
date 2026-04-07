@@ -22,22 +22,14 @@
 ## Ferramentas que uso
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" height="40"/>
+  
 </p>
 
 ## 🌐 Redes sociais
 
 [![Instagram](https://img.shields.io/badge/-@leandro_savio06-833AB4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/leandro_savio06)](https://instagram.com/leandro_savio06)
 [![LinkedIn](https://img.shields.io/badge/-Leandro%20Sávio-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-savio-967659350)](https://www.linkedin.com/in/leandro-savio-967659350)
-
-
-
-
-
-
-
-
-
-
 
 
 
