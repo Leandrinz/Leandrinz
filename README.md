@@ -3,10 +3,6 @@
 
 ## 📊 Estatísticas do GitHub
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Leandrinz?cardType=level-alternate&theme=algolia&fontFamily=Chelsea%20Market&preferLogin=true)](https://git.io/awesome-stats-card)
-![](https://github-readme-stats.vercel.app/api?username=Leandrinz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Leandrinz&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrinz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Leandrinz&icon=0&color=0)](https://visitcount.itsvg.in)
