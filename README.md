@@ -1,5 +1,7 @@
 ## Olá, meu nome é Leandro Savio!
-- Sou graduando em Tecnologia da Informação na UFERSA, com conhecimentos intermediários em Python, C, MySQL e Testes unitários em Python. Estudo lógica de programação, estruturas de dados e conceitos básicos de testes de unidade. Busco aplicar boas práticas de desenvolvimento para produzir código limpo e confiável, buscando aprimorar minhas habilidades técnicas e ampliar meus conhecimentos na área.
+Sou graduando em Tecnologia da Informação na Universidade Federal Rural do Semi-Árido (UFERSA), com conhecimentos em Python, Java, C, MySQL e testes unitários. Possuo experiência com lógica de programação, estruturas de dados, desenvolvimento de aplicações e conceitos de testes de software, incluindo estudos sobre frameworks de teste em C e Python.
+
+Atualmente, busco aplicar boas práticas de desenvolvimento para produzir código limpo, organizado e confiável, além de aprimorar continuamente minhas habilidades técnicas. Também tenho interesse na criação de materiais de estudo 100% em português, com foco em facilitar o aprendizado de programação e tecnologia para estudantes brasileiros.
 
 ## 📊 Estatísticas do GitHub
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Leandrinz?cardType=level-alternate&theme=algolia&fontFamily=Chelsea%20Market&preferLogin=true)](https://git.io/awesome-stats-card)
